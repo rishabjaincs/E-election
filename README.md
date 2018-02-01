@@ -1,4 +1,5 @@
 Basic Login app with sign up and forgot password included
+
 To run the app into the emulator or in your device. Here are some prerequisite:
 
 Installed React-Native
